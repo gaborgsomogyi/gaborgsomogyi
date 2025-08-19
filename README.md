@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   - Security
 - 📫 How to reach me: gaborgsomogyi@apache.org
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: in order to relax I'm sometimes doing construction work, electronic repair, hardware and software hacking (on my own devices)😄
+- ⚡ Fun fact: in order to relax I'm sometimes doing construction work, electronic repair, hardware and software reverse engineering (on my own devices)😄
