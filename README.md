@@ -4,13 +4,18 @@
 **gaborgsomogyi/gaborgsomogyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Apache Flink](https://github.com/apache/flink)
+- 🌱 I’m currently learning anything what looks interesting
+- 👯 I’m looking to collaborate on [Apache Flink](https://github.com/apache/flink)
+- 🤔 I’m looking for help with [Apache Flink](https://github.com/apache/flink)
+- 💬 Ask me about:
+  - Apache Flink
+  - Apache Spark
+  - Apache Kafka
+  - Distributed systems
+  - Security
+- 📫 How to reach me: gaborgsomogyi@apache.org
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: in order to relax I'm sometimes doing construction work, electronic repair, hardware and software hacking (on my own devices)😄
