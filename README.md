@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Apache Flink](https://github.com/apache/flink)
 - 🌱 I’m currently learning anything what looks interesting
 - 👯 I’m looking to collaborate on [Apache Flink](https://github.com/apache/flink)
-- 🤔 I’m looking for help with [Apache Flink](https://github.com/apache/flink)
 - 💬 Ask me about:
   - Apache Flink
   - Apache Spark
