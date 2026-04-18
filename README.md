@@ -1,5 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gaborgsomogyi)
 
+<div id="github_stats" align="center">
+  <div>
+    <a><img src="https://streak-stats.demolab.com?user=gaborgsomogyi&theme=github-light&mode=weekly" alt="GitHub Streak" /></a>
+    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaborgsomogyi&theme=github" /></a>
+  </div>
+</div>
+
 ## Hi there 👋
 
 <!--
