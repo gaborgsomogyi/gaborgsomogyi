@@ -35,6 +35,11 @@ Thru-hiking, construction, electronics repair, and hardware/software reverse eng
 ---
 
 <div align="center">
+  <a href="https://github.com/sponsors/gaborgsomogyi"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://www.buymeacoffee.com/gaborgsomogyi"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=gaborgsomogyi&theme=github-light&mode=weekly" alt="GitHub Streak" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaborgsomogyi&theme=github" />
 </div>
